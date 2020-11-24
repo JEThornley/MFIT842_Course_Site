@@ -3,30 +3,48 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+
 [[main]]
   name = "Home"
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Deliverables"
+  url = "Deliverables/"
   weight = 40
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  [[main]]
+    name = "Course Content"
+    identifier = "course-parent"
+    url = ""
+    weight = 41
+
+  [[main]]
+    name = "Session 1"
+    parent = "course-parent"
+    url = "course/session-1/"
+    weight = 50
+
+    [[main]]
+       name = "Course Outline"
+    url = "files/MFIN842_CourseOutline.pdf"
+       weight = 200
+
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
