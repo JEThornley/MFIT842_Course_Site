@@ -23,14 +23,14 @@ Review the {{% staticref "files/Online_Learning_Tips.pdf" "newtab" %}}Quick Tips
 experience as meaningful as possible.
 {{% /callout %}}
 
-</br>
+
 ## Learning Objectives and Methods
 
 The course is designed to present students with an alternate lens on finance, particularly financial markets, trading and investing, by extending the theoretical models and lessons of classical finance. This course will provide a fresh view on what may change and what may not. The class will revisit classic economic theories, how they may be changing, and potentially new economic theories and results. Innovations in trading including, high frequency and algorithmic trading, automated markets, and market speed bumps will be examined from a market welfare perspective. 
 
 The course will be delivered in a novel fashion with a combination of recorded lecture snippets, live tutorials, readings, presentations, and activities that will require the active participation of students. The course will depend heavily on active group participation and a desire to think outside of the box. Programming skills are not required but an openness to acquire these skills is a prerequisite. At the end of the course students will have knowledge of how technology supported innovation in financial services is changing financial intermediation. Students may also have an idea and a prototype for a FinTech start-up of their own. This is encouraged but is certainly not the only goal of the course. 
 
-</br>
+
 ## Course Materials
 
 ### Recommended Material
@@ -47,7 +47,7 @@ The course website provides valuable information related to the course. On the w
 *	**Academic articles**
 *	**Posted articles from financial press, as may arise in class**
 
-</br>
+
 ## Evaluation
 
 This class will be delivered mostly asynchronously. That means that students will work through most of the material at their own pace. Nevertheless, case write-ups, presentations, and the final report write-up and presentation have specific deadlines. The final course deliverable is a presentation (and write-up) of a prototype, pitch or report. Please note: the instructor must approve topics for the final presentation.
@@ -57,7 +57,7 @@ This class will be delivered mostly asynchronously. That means that students wil
 *	**Robinhood Case Presentation (Group)**
 *	**Final Prototype/Pitch/Report (Group)**
 
-</br>
+
 ## Accommodations Statement
 
 Queen's University is committed to achieving full accessibility for persons with disabilities. Part of this commitment includes arranging academic accommodations for students with disabilities to ensure they have an equitable opportunity to participate in all of their academic activities. If you are a student with a disability and think you may need accommodations, you are strongly encouraged to contact Student Wellness Services (SWS) and register as early as possible.  For more information, including important deadlines, please visit the Student Wellness website at: http://www.queensu.ca/studentwellness/accessibility-services/
