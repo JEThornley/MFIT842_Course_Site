@@ -24,7 +24,7 @@ subtitle = ""
   icon = "calendar-alt"
   icon_pack = "fas"
   name = "Course details"
-  description = "See the [Course Content](https://mfit841.netlify.app/course/session-1/) tab"  
+  description = "See the [Course Content](https://mfit842.netlify.app/course/session-1/) tab"  
   
 [[feature]]
   icon = "envelope"

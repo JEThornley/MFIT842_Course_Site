@@ -19,8 +19,8 @@ weight: 1
 ### Recommended Reading
 
 * **Pages 176 - 188 of [Chapter 19 - Performance Evaluation](https://www.cfainstitute.org/-/media/documents/support/programs/investment-foundations/19-performance-evaluation.ashx?la=en&hash=F7FF3085AAFADE241B73403142AAE0BB1250B311) Clare, A. CFA Institute. (2014). Retrieved on September 5, 2020 from https://www.cfainstitute.org/-/media/documents/support/programs/investment-foundations/19-performance-evaluation.ashx?la=en&hash=F7FF3085AAFADE241B73403142AAE0BB1250B311**
-
 </br>
+
 ## Video: Capital Asset Pricing Model (CAPM)
 {{< video library="true" src="CAPM_Beta.mp4" controls="yes" >}}
 
