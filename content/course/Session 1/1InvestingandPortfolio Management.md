@@ -10,11 +10,9 @@ weight: 1
 
 ## Video: Saving vs. Investing
 {{< video library="true" src="SavingversusInvesting_comp.mp4" controls="yes" >}}
-</br>
 
 ## Video: Expected Return
 {{< video library="true" src="expected_return.mp4" controls="yes" >}}
-</br>
 
 ### Recommended Reading
 
@@ -29,7 +27,7 @@ weight: 1
 * **[The Capital Asset Pricing Model - Theory and Evidence](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162430) Fama, E. & French, K. (2004). Retrieved on September 5, 2020 from https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330042162430**
 
 
-### Video: Active vs. Passive Investing
+## Video: Active vs. Passive Investing
 {{< video library="true" src="active_passive.mp4" controls="yes" >}}
 
 ### Recommended Readings
