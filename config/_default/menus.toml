@@ -42,6 +42,13 @@
       url = "course/session-2/"
       weight = 60
 
+      [[main]]
+        name = "Session 3"
+        parent = "course-parent"
+        url = "course/session-3/"
+        weight = 70
+
+
     [[main]]
        name = "Course Outline"
     url = "https://www.dropbox.com/sh/3ctg8zp4cgwpae5/AADddVHYn3dzqEbZ_nt_sclTa?dl=0&preview=MFIT842_CourseOutline.docx"
