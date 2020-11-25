@@ -7,11 +7,13 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 2
 ---
 
-## Video: Quantitative Investing
-{{< video library="true" src="Quantitative_investing.mp4" controls="yes" >}}
+## Video: Robo-Advising
+{{< video library="true" src="robo-advisors.mp4" controls="yes" >}}
 
-## Video: Factor Investing
-{{< video library="true" src="factor_investing.mp4" controls="yes" >}}
+## Recommended Reading
+* **[The Economics of Complex Decision Making: The Emergence of the Robo Adviser](https://www.geog.ox.ac.uk/events/170911/Robo-vs-Human-Advisers-Aug-28.pdf) Fisch, J., Laboure, M. & Turner, J. (2017). Retrieved on October 5, 2020 from https://www.geog.ox.ac.uk/events/170911/Robo-vs-Human-Advisers-Aug-28.pdf**
+
+
 
 
 
