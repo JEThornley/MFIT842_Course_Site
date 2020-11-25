@@ -13,5 +13,9 @@ weight: 2
 ## Video: Factor Investing
 {{< video library="true" src="factor_investing.mp4" controls="yes" >}}
 
+### Transcript
+{{< figure library="true" src="Factor_Investing_Transcript_p1.jpg" >}}
+{{< figure library="true" src="Factor_Investing_Transcript_p2.jpg" >}}
+{{< figure library="true" src="Factor_Investing_Transcript_p3.jpg" >}}
 
 

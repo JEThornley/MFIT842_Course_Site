@@ -36,6 +36,11 @@ weight: 1
 ## Video: Active vs. Passive Investing
 {{< video library="true" src="active_passive.mp4" controls="yes" >}}
 
+### Transcript
+{{< figure library="true" src="Passive_Investing_Transcript_p1.jpg" >}}
+{{< figure library="true" src="Passive_Investing_Transcript_p2.jpg" >}}
+{{< figure library="true" src="Passive_Investing_Transcript_p3.jpg" >}}
+
 ### Recommended Readings
 
 * **Pages 385-394 of [Modern Portfolio Theory and Investment Analysis, 9e - Chapter 16](https://www.academia.edu/20386504/Modern_Portfolio_Theory_and_Investment_Analysis_Edwin_J_Elton_Martin_J_Gruber_Stephen_J_Brow) Elton E., Brown S., Goetzmann W. & Gruber, M. (n.d.). Retrieved on September 5, 2020 from https://www.academia.edu/20386504/Modern_Portfolio_Theory_and_Investment_Analysis_Edwin_J_Elton_Martin_J_Gruber_Stephen_J_Brow**
