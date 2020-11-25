@@ -11,6 +11,12 @@ weight: 1
 ## Video: Saving vs. Investing
 {{< video library="true" src="SavingversusInvesting_comp.mp4" controls="yes" >}}
 
+### Transcript
+{{< figure library="true" src="Saving_vs_Investing_Transcript_p1.jpg" >}}
+{{< figure library="true" src="Saving_vs_Investing_Transcript_p2.jpg" >}}
+{{< figure library="true" src="Saving_vs_Investing_Transcript_p3.jpg" >}}
+
+
 ## Video: Expected Return
 {{< video library="true" src="expected_return.mp4" controls="yes" >}}
 
