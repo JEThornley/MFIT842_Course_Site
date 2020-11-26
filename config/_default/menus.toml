@@ -48,6 +48,12 @@
         url = "course/session-3/"
         weight = 70
 
+        [[main]]
+          name = "Session 4"
+          parent = "course-parent"
+          url = "course/session-4/"
+          weight = 80
+
 
     [[main]]
        name = "Course Outline"
