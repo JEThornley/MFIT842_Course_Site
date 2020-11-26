@@ -8,7 +8,7 @@ weight: 6
 ---
 
 ## Video: Machine Learning
-{{< video library="true" src="machinelearning.mp4" controls="yes" >}}
+{{< video library="true" src="machinelearning_v2.mp4" controls="yes" >}}
 
 
 
