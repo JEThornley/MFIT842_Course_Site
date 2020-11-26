@@ -1,5 +1,5 @@
 ---
-title: Robintrack Popularity History - Robinhood Data Assignment
+title: Robintrack Popularity History for Robinhood Data Assignment
 author: Smith School of Business, Queen's University 
 summary: 
 tags:
